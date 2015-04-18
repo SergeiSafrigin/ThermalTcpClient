@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ThermAppSDKSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ac_tst">AcTST</string>
+    <string name="title_activity_ftpdownload">FTPDownload</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_splah_screen">SplahScreen</string>
+    <string name="title_activity_slpash">Slpash</string>
+    <string name="title_activity_terms_of_use">TermsOfUse</string>
+
+</resources>

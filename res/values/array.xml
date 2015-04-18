@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="units">
+        <item >Fahrenheit</item>
+        <item >Celsius</item>
+      </string-array>
+    
+       <string-array name="lunits">
+        <item >F</item>
+        <item >C</item>
+     </string-array>
+     
+        <string-array name="palette">
+        <item >Rainbow</item>
+        <item >Gray</item>
+        <item >Iron</item>
+      </string-array>
+    
+       <string-array name="lpalette">
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+     </string-array>
+     
+          <string-array name="mon_col">
+        <item >Night Vision</item>
+        <item >Thermography</item>
+        
+      </string-array>
+    
+       <string-array name="lmon_col">
+        <item >1</item>
+        <item >2</item>
+       
+     </string-array>
+    
+       
+    
+</resources>

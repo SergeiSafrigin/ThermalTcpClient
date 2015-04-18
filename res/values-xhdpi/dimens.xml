@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+   <dimen name="temp_from_top">45dp</dimen>
+   <dimen name="terms_lay_top">90dp</dimen>
+   
+    <!-- Camera not connected  -->
+   <dimen name="text1_top">50dp</dimen>
+   <dimen name="image_top">30dp</dimen>
+   <dimen name="text2_top">30dp</dimen>
+   
+   <!-- Share Screen -->
+    <dimen name="logo_top_margin">10dp</dimen>
+   <dimen name="text_top_margin">10dp</dimen>
+    <dimen name="image_top_margin">10dp</dimen>
+    <dimen name="image_width">350dp</dimen>
+   <dimen name="image_height">476dp</dimen>
+   
+    
+</resources>

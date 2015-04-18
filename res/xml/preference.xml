@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="GENERAL" >
+        <EditTextPreference
+            android:key="ipAddress"
+            android:title="IP ADDRESS"
+            android:summary="the ip address of the udp server" />
+
+        <EditTextPreference
+                android:key="port"
+                android:inputType="number"
+                android:title="PORT"
+                android:summary="the port number of the udp server"
+                android:defaultValue="31113" />
+
+    </PreferenceCategory>
+</PreferenceScreen>
